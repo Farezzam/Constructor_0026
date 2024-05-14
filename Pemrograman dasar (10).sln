@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pemrograman dasar (10)", "Pemrograman dasar (10)\Pemrograman dasar (10).vcxproj", "{7DCE95EB-A77E-4526-95F6-0468A5E4AB7E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pemrograman Dasar (10) - 2", "Pemrograman Dasar (10) - 2\Pemrograman Dasar (10) - 2.vcxproj", "{110AA2E1-ECA0-473C-9B27-293606407EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7DCE95EB-A77E-4526-95F6-0468A5E4AB7E}.Release|x64.Build.0 = Release|x64
 		{7DCE95EB-A77E-4526-95F6-0468A5E4AB7E}.Release|x86.ActiveCfg = Release|Win32
 		{7DCE95EB-A77E-4526-95F6-0468A5E4AB7E}.Release|x86.Build.0 = Release|Win32
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Debug|x64.ActiveCfg = Debug|x64
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Debug|x64.Build.0 = Debug|x64
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Debug|x86.Build.0 = Debug|Win32
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Release|x64.ActiveCfg = Release|x64
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Release|x64.Build.0 = Release|x64
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Release|x86.ActiveCfg = Release|Win32
+		{110AA2E1-ECA0-473C-9B27-293606407EBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
