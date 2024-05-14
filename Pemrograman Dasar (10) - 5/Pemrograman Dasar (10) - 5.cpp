@@ -19,3 +19,10 @@ public:
 
 } bukunya;
 
+int main()
+{
+	// bukunya.setJudul("Matematika");
+	// cout << bukunya.getJudul();
+	cout << bukunya.setJudul("Matematika").getJudul(); // Chain Function
+	return 0;
+}
